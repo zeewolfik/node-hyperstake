@@ -452,7 +452,7 @@ reddcoin.set({port:22555})
 
 Available options and default values:
 
-+ host *localhost*
++ host *127.0.0.1*
 + port *45443*
 + user
 + pass
