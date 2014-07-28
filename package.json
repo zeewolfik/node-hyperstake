@@ -1,10 +1,10 @@
 {
     "name": "node-reddcoin",
-    "version": "0.3.13",
+    "version": "0.3.14",
     "description": "Reddcoin client",
     "keywords": ["reddcoin"],
     "repository": "git://github.com/samvaughton/node-reddcoin.git",
-    "author": "Clark Van Oyen <clark@countable.ca>",
+    "author": "Sam Vaughton <samvaughton@gmail.com>",
     "contributors": [
         {
             "name": "Sam Vaughton", 
