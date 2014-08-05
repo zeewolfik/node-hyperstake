@@ -1,6 +1,6 @@
 {
     "name": "node-reddcoin",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Reddcoin client",
     "keywords": ["reddcoin"],
     "repository": "git://github.com/samvaughton/node-reddcoin.git",
