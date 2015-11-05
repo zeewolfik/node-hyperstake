@@ -1,17 +1,17 @@
 {
-    "name": "node-reddcoin",
-    "version": "1.1.1",
-    "description": "Reddcoin client",
-    "keywords": ["reddcoin"],
-    "repository": "git://github.com/samvaughton/node-reddcoin.git",
-    "author": "Sam Vaughton <samvaughton@gmail.com>",
+    "name": "node-hyperstake",
+    "version": "1.0.0",
+    "description": "HyperStake client",
+    "keywords": ["hyperstake"],
+    "repository": "git://github.com/zeewolfik/node-hyperstake.git",
+    "author": "ZeeWolf <zeewolf16@gmail.com>",
     "contributors": [
         {
-            "name": "Sam Vaughton", 
-            "email": "samvaughton@gmail.com"
+            "name": "ZeeWolf",
+            "email": "zeewolf16@gmail.com"
         }
     ],
-    "main": "lib/reddcoin.js",
+    "main": "lib/hyperstake.js",
     "engines": { "node": ">= 0.4.0" },
     "devDependencies": {
         "nodeunit": "*"
